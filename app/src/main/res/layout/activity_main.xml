@@ -32,21 +32,27 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Polub"
+            android:backgroundTint="#008080"
+            />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/Usuń"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Usuń"
+            android:backgroundTint="#008080"
+            />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Zapisz"
+            android:backgroundTint="#008080"
+            />
 
     </LinearLayout>
 
